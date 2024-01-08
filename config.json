@@ -1,0 +1,19 @@
+{
+    "Claim Time": "2",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Every Day": "on"
+    },
+    "Data": [
+        {
+            "Email": "exchangeking@outlook.com",
+            "Password": "police110@police",
+            "XRP": {
+                "Address": "rhi77L73jGvGN3zQf3AEbYnjWYZu7CSTe8",
+                "Tag": "6443681"
+            },
+            "Check Lottery": "on",
+            "Withdraw Time": "2024-01-09 15:10:24"
+        }
+    ]
+}
